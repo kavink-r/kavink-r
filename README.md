@@ -7,24 +7,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a Java Full Stack Developer on a mission to transform ideas into seamless, user-centric applications. With a strong foundation in both front-end and back-end development, I thrive on the challenge of creating innovative solutions that make people's lives easier. 
 
-🌐 Technical Expertise: 
+🌐 Technical Expertise: \
+Front-end: HTML, CSS, JavaScript, Typescript, Angular \
+Back-end: Java, Spring Boot, Hibernate \
+Database: SQL, MongoDB \
+DevOps: Docker, Jenkins, AWS \
+Tools: Git, JIRA, Agile/Scrum \
 
-Front-end: HTML, CSS, JavaScript, Typescript, Angular 
-Back-end: Java, Spring Boot, Hibernate 
-Database: SQL, MongoDB 
-DevOps: Docker, Jenkins, AWS 
-Tools: Git, JIRA, Agile/Scrum 
-
-💡 What Drives Me: 
-
+💡 What Drives Me: \
 I believe in the power of code to change the world. Whether it's building intuitive user interfaces or crafting robust server-side logic, I approach every project with diligence and a perfectionist mindset. My work is a blend of hard work, consistency, and an unwavering commitment to delivering excellence. 
 
-🌍 Making a Difference: 
-
+🌍 Making a Difference: \
 My development journey isn't just about writing lines of code; it's about creating applications that have a real impact on people's lives. I persevere through challenges to ensure that my projects not only meet but exceed expectations. 
 
-🏆 Why Work with Me: 
-
+🏆 Why Work with Me: \
 I'm a dedicated problem-solver, always seeking the most efficient and elegant solutions. My commitment to quality and attention to detail ensures bug-free, reliable code. I'm a team player, thriving in collaborative environments. Deadlines are my motivation; I deliver on time, every time. Let's collaborate and build a brighter, more user-friendly future, one line of code at a time. Connect with me, and let's create something amazing!
 
 *   🌍  I'm based in Erode, Tamilnadu, India
