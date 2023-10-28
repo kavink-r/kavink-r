@@ -50,7 +50,7 @@ I'm a dedicated problem-solver, always seeking the most efficient and elegant so
 
 *   🌍  I'm based in Erode, Tamilnadu, India
 *   ✉️  You can contact me at [k.r.kavin007@gmail.com](mailto:k.r.kavin007@gmail.com)
-*   🧠  I'm learning Python
+*   🧠  I'm shaping my CSS skills
 *   🤝  I'm open to collaborating on Interesting Java Full Stack projects
   
   ### Skills
