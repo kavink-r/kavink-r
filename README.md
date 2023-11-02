@@ -52,7 +52,8 @@ I'm a dedicated problem-solver, always seeking the most efficient and elegant so
 *   ✉️  You can contact me at [k.r.kavin007@gmail.com](mailto:k.r.kavin007@gmail.com)
 *   🧠  I'm shaping my CSS skills
 *   🤝  I'm open to collaborating on Interesting Java Full Stack projects
-  
+
+ ![profileviews](https://komarev.com/ghpvc/?username=kavink-r&label=Profile%20views&color=0e75b6&style=flat)
   ### Skills
   
 <p align="left">
