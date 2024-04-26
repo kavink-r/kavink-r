@@ -49,7 +49,7 @@ My development journey isn't just about writing lines of code; it's about creati
 I'm a dedicated problem-solver, always seeking the most efficient and elegant solutions. My commitment to quality and attention to detail ensures bug-free, reliable code. I'm a team player, thriving in collaborative environments. Deadlines are my motivation; I deliver on time, every time. Let's collaborate and build a brighter, more user-friendly future, one line of code at a time. Connect with me, and let's create something amazing!
 
 *   🌍  I'm based in Erode, Tamilnadu, India
-*   ✉️  You can contact me at [k.r.kavin007@gmail.com](mailto:k.r.kavin007@gmail.com)
+*   ✉️  You can contact me at [kavinkrtn33@gmail.com](mailto:kavinkrtn33@gmail.com)
 *   🧠  I'm shaping my CSS skills
 *   🤝  I'm open to collaborating on Interesting Java Full Stack projects
 
@@ -69,7 +69,7 @@ I'm a dedicated problem-solver, always seeking the most efficient and elegant so
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.linkedin.com/in/kavink-r" target="_blank" rel="noreferrer">
+                      <a href="https://www.linkedin.com/in/kavinkrtn33" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
